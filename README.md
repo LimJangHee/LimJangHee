@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 -->
 
 ![Header](./github-header-image.png)
-![](./profile-night-rainbow.svg)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
