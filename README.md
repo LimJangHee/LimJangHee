@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LimJangHee&layout=compact">
 <img src="https://github-readme-stats.vercel.app/api?username=LimJangHee&show_icons=true">
 
-![Taehyun's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=kycasdzxc)
+![Taehyun's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=LimJangHee)
 
 <br>
 <p>🏆 Baekjoon solved rank 🏆</p>
