@@ -11,7 +11,7 @@ jobs:
     name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v2
-      - uses: yoshi389111/github-profile-3d-contrib@0.6.0
+      - uses: LimJangHee/github-profile-3d-contrib@0.6.0
         env:
           GITHUB_TOKEN: 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
           USERNAME: LimJangHee
