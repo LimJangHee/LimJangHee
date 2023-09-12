@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 -->
 
 ![Header](./github-header-image.png)
+![](./profile-3d-contrib/profile-green-animate.svg)
