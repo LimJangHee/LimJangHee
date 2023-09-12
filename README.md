@@ -81,4 +81,5 @@ Here are some ideas to get you started:
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gojangjanghee)](https://solved.ac/gojangjanghee)
 </div>
 <br>
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+
+![](./profile-3d-contrib/profile-gitblock.svg)
