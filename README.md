@@ -70,8 +70,8 @@ Here are some ideas to get you started:
 </div>
 <div align=center>
 	<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kycasdzxc&layout=compact">
-<img src="https://github-readme-stats.vercel.app/api?username=kycasdzxc&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LimJangHee&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api?username=LimJangHee&show_icons=true">
 
 ![Taehyun's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=kycasdzxc)
 
