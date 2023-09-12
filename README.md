@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **LimJangHee/LimJangHee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[GitHub Header Image](https://github.com/LimJangHee/LimJangHee/blob/main/github-header-image.png)
+![Header](./github-header-image.png)
